@@ -3,7 +3,7 @@
 Tower defense, Light vs Dark, Survivors and Verdant vs The Crypt, for Windows.
 
 ## Download
-Play in your browser or download the game at **[atxrambo.itch.io/last-man-standing-td](https://atxrambo.itch.io/last-man-standing-td)**, or open the **[latest release](../../releases/latest)** and download `The-Last-Dominion-Setup-<version>.exe`, then run it.
+Play in your browser or download the game at **[atxrambo.itch.io/the-last-dominion](https://atxrambo.itch.io/the-last-dominion)**, or open the **[latest release](../../releases/latest)** and download `The-Last-Dominion-Setup-<version>.exe`, then run it.
 
 - Windows may show **"Windows protected your PC"**, because the installer isn't signed. Click **More info**, then **Run anyway**.
 - It installs for your Windows user (no administrator needed) and adds a desktop shortcut.
